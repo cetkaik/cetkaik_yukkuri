@@ -233,7 +233,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,
@@ -452,7 +452,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
@@ -576,7 +576,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping_opponent.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping_opponent.mp4",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -633,7 +633,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping_opponent.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping_opponent.mp4",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -690,7 +690,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping2.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping2.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
@@ -895,7 +895,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\stepping3.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\stepping3.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
@@ -1467,7 +1467,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\parachute.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\parachute.mp4",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -1524,7 +1524,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\parachuting.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\parachuting.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
