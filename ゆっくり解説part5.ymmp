@@ -3098,7 +3098,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\pieces.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\piece_professions.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
