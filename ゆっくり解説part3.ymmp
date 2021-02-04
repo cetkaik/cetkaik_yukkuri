@@ -1,0 +1,1941 @@
+{
+  "Timeline": {
+    "VideoInfo": {
+      "FPS": 30,
+      "Hz": 48000,
+      "Width": 1920,
+      "Height": 1080
+    },
+    "Items": [
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "機動力があるな",
+        "Hatsuon": "きどうりょく+が/あ+る+な",
+        "VoiceLength": "00:00:01.2420000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "Custom",
+        "Y": {
+          "From": -360.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 476.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 425,
+        "Layer": 1,
+        "Length": 46,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\日本机戦.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 0,
+        "Length": 18,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\製作.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 871,
+        "Layer": 0,
+        "Length": 29,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.TextItem, YukkuriMovieMaker",
+        "Text": "机戦ゆっくり30秒解説 part3",
+        "Font": "UD デジタル 教科書体 N-B",
+        "FontSize": {
+          "From": 92.8,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 175.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterTop",
+        "FontColor": "#FF000000",
+        "Style": "Normal",
+        "StyleColor": "#FF000000",
+        "Bold": false,
+        "Italic": false,
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 294.54,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 0,
+        "Layer": 1,
+        "Length": 18,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\unnamed.jpg",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": -95.05,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 18,
+        "Layer": 0,
+        "Length": 86,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "いろいろある駒の中で",
+        "Hatsuon": "いろいろ/あ+る/こま+の/なか+で",
+        "VoiceLength": "00:00:01.5695000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.2,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 18,
+        "Layer": 1,
+        "Length": 56,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "実写だ",
+        "Hatsuon": "じっしゃ+だ",
+        "VoiceLength": "00:00:00.6945000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 74,
+        "Layer": 1,
+        "Length": 30,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\tam.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 104,
+        "Layer": 2,
+        "Length": 122,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:01.1333325",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "一番特殊な駒、タム",
+        "Hatsuon": "いちばん/とくしゅ+な/こま、たむ",
+        "VoiceLength": "00:00:02.1145000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 104,
+        "Layer": 1,
+        "Length": 72,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "実写じゃなくなった",
+        "Hatsuon": "じっしゃ+じゃ+なく+なった",
+        "VoiceLength": "00:00:01.3732500",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 176,
+        "Layer": 1,
+        "Length": 50,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "まず周り8マスもパワースポットになる",
+        "Hatsuon": "まず/まわり<NUMK VAL=8>/ます+も/ぱわー/すぽっと+に/な+る",
+        "VoiceLength": "00:00:02.6770000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 226,
+        "Layer": 1,
+        "Length": 89,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "可動式パワースポット",
+        "Hatsuon": "かどうしき/ぱわー/すぽっと",
+        "VoiceLength": "00:00:01.5707500",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 315,
+        "Layer": 1,
+        "Length": 56,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\tam2.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 337.62,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 226,
+        "Layer": 2,
+        "Length": 145,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "1ターンに2度動ける",
+        "Hatsuon": "<NUMK VAL=1>/たーん+に<NUMK VAL=2 COUNTER=ど>/うご+ける",
+        "VoiceLength": "00:00:01.5120000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "Custom",
+        "Y": {
+          "From": -360.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 476.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 371,
+        "Layer": 1,
+        "Length": 54,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+        "FilePath": "D:\\tam_movement.mp4",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 133.41,
+        "ContentOffset": "00:00:01.8333333",
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 371,
+        "Layer": 0,
+        "Length": 101,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "どちらのプレイヤーも動かすことができる",
+        "Hatsuon": "どちら+の/ぷれいやー+も/うごか+す+こと+が/でき+る",
+        "VoiceLength": "00:00:02.5870000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 472,
+        "Layer": 1,
+        "Length": 87,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "共同利用設備なのか",
+        "Hatsuon": "きょうどう/りよう/せつび+なの+か",
+        "VoiceLength": "00:00:01.7970000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 45.0,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 559,
+        "Layer": 1,
+        "Length": 63,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "駒を取ることはできないし、取られることもない",
+        "Hatsuon": "こま+を/と+る+こと+わ/でき+ない+し、と+ら+れる+こと+も/な+い",
+        "VoiceLength": "00:00:03.2445000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.1,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 622,
+        "Layer": 1,
+        "Length": 106,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "中立の駒なのか",
+        "Hatsuon": "ちゅうりつ+の/こま+なの+か",
+        "VoiceLength": "00:00:01.5120000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 350.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.1,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 728,
+        "Layer": 1,
+        "Length": 54,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり霊夢",
+        "Serif": "踏むと罰則",
+        "Hatsuon": "ふ+む+と/ばっそく",
+        "VoiceLength": "00:00:01.0720000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "Custom",
+        "Y": {
+          "From": -360.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 476.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.1,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FF8B0000",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 782,
+        "Layer": 1,
+        "Length": 41,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "待て、踏むってなんだ",
+        "Hatsuon": "ま+て/ふ+むって/なん+だ",
+        "VoiceLength": "00:00:01.3095000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "Custom",
+        "Y": {
+          "From": -406.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "X": {
+          "From": 476.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.1,
+          "To": 1.0,
+          "AnimationType": "なし"
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 823,
+        "Layer": 1,
+        "Length": 48,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Downloads\\tam_.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 229.9,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 472,
+        "Layer": 0,
+        "Length": 310,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+        "FilePath": "D:\\kut_tam.mp4",
+        "Volume": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 250.0,
+        "ContentOffset": "00:00:01.1666666",
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 782,
+        "Layer": 0,
+        "Length": 6,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+        "FilePath": "D:\\kut_tam.mp4",
+        "Volume": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 250.0,
+        "ContentOffset": "00:00:02.2333332",
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 788,
+        "Layer": 0,
+        "Length": 34,
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
+        "FilePath": "D:\\kut_tam.mp4",
+        "Volume": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "PlaybackRate": 230.0,
+        "ContentOffset": "00:00:06.5333331",
+        "IsLooped": false,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし"
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 822,
+        "Layer": 0,
+        "Length": 49,
+        "IsLocked": false,
+        "IsHidden": false
+      }
+    ],
+    "LayerVisibilities": {
+      "HiddenLayers": []
+    },
+    "CurrentFrame": 0,
+    "Length": 900,
+    "MaxLayer": 2
+  },
+  "Characters": [
+    {
+      "Name": "ゆっくり魔理沙",
+      "Color": "#FFFFFF00",
+      "Layer": 0,
+      "Voice": {
+        "Name": "AquesTalk / 女性2",
+        "API": "AquesTalk",
+        "Arg": "f2",
+        "Format": "yukkuri",
+        "ParameterType": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker, Version=3.9.9.121, Culture=neutral, PublicKeyToken=null"
+      },
+      "Volume": {
+        "From": 50.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Pan": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "PlaybackRate": 100.0,
+      "VoiceParameter": {
+        "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+        "Speed": 100
+      },
+      "AdditionalTime": 0.3,
+      "VoiceFadeIn": 0.0,
+      "VoiceFadeOut": 0.0,
+      "EchoIsEnabled": false,
+      "EchoInterval": 0.1,
+      "EchoAttenuation": 40.0,
+      "CustomVoiceIsEnabled": false,
+      "CustomVoiceIncludeSubdirectories": false,
+      "CustomVoiceDirectory": "",
+      "CustomVoiceFileName": "",
+      "IsJimakuVisible": true,
+      "IsJimakuLocked": false,
+      "X": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Y": {
+        "From": 350.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Opacity": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Zoom": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Rotation": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "JimakuFadeIn": 0.0,
+      "JimakuFadeOut": 0.0,
+      "Blend": "Normal",
+      "IsInverted": false,
+      "IsAlwaysOnTop": false,
+      "Font": "メイリオ",
+      "FontSize": {
+        "From": 60.1,
+        "To": 1.0,
+        "AnimationType": "なし"
+      },
+      "LineHeight": 100.0,
+      "LetterSpacing": 0.0,
+      "BasePoint": "CenterBottom",
+      "FontColor": "#FFFFFFFF",
+      "Style": "Border",
+      "StyleColor": "#FFFFFF00",
+      "Bold": false,
+      "Italic": false,
+      "JimakuVideoEffects": [],
+      "TachieType": null,
+      "TachieCharacterParameter": null,
+      "IsTachieLocked": false,
+      "TachieX": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieY": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieOpacity": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieZoom": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieRotation": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieFadeIn": 0.0,
+      "TachieFadeOut": 0.0,
+      "TachieBlend": "Normal",
+      "TachieIsInverted": false,
+      "TachieIsAlwaysOnTop": false,
+      "TachieDefaultItemParameter": null,
+      "TachieItemVideoEffects": [],
+      "TachieDefaultFaceParameter": null,
+      "AdditionalForegroundTemplateName": null,
+      "AdditionalBackgroundTemplateName": null
+    },
+    {
+      "Name": "ゆっくり霊夢",
+      "Color": "#FF8B0000",
+      "Layer": 0,
+      "Voice": {
+        "Name": "AquesTalk / 女性1",
+        "API": "AquesTalk",
+        "Arg": "f1",
+        "Format": "yukkuri",
+        "ParameterType": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker, Version=3.9.9.121, Culture=neutral, PublicKeyToken=null"
+      },
+      "Volume": {
+        "From": 50.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Pan": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "PlaybackRate": 100.0,
+      "VoiceParameter": {
+        "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+        "Speed": 100
+      },
+      "AdditionalTime": 0.3,
+      "VoiceFadeIn": 0.0,
+      "VoiceFadeOut": 0.0,
+      "EchoIsEnabled": false,
+      "EchoInterval": 0.1,
+      "EchoAttenuation": 40.0,
+      "CustomVoiceIsEnabled": false,
+      "CustomVoiceIncludeSubdirectories": false,
+      "CustomVoiceDirectory": "",
+      "CustomVoiceFileName": "",
+      "IsJimakuVisible": true,
+      "IsJimakuLocked": false,
+      "X": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Y": {
+        "From": 350.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Opacity": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Zoom": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "Rotation": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "JimakuFadeIn": 0.0,
+      "JimakuFadeOut": 0.0,
+      "Blend": "Normal",
+      "IsInverted": false,
+      "IsAlwaysOnTop": false,
+      "Font": "メイリオ",
+      "FontSize": {
+        "From": 60.1,
+        "To": 1.0,
+        "AnimationType": "なし"
+      },
+      "LineHeight": 100.0,
+      "LetterSpacing": 0.0,
+      "BasePoint": "CenterBottom",
+      "FontColor": "#FFFFFFFF",
+      "Style": "Border",
+      "StyleColor": "#FF8B0000",
+      "Bold": false,
+      "Italic": false,
+      "JimakuVideoEffects": [],
+      "TachieType": null,
+      "TachieCharacterParameter": null,
+      "IsTachieLocked": false,
+      "TachieX": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieY": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieOpacity": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieZoom": {
+        "From": 100.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieRotation": {
+        "From": 0.0,
+        "To": 0.0,
+        "AnimationType": "なし"
+      },
+      "TachieFadeIn": 0.0,
+      "TachieFadeOut": 0.0,
+      "TachieBlend": "Normal",
+      "TachieIsInverted": false,
+      "TachieIsAlwaysOnTop": false,
+      "TachieDefaultItemParameter": null,
+      "TachieItemVideoEffects": [],
+      "TachieDefaultFaceParameter": null,
+      "AdditionalForegroundTemplateName": null,
+      "AdditionalBackgroundTemplateName": null
+    }
+  ]
+}
