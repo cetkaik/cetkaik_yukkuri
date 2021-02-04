@@ -1691,7 +1691,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\VID_20210131_221040.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\parachute_to_water.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,
@@ -1905,7 +1905,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\VID_20210131_223819.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\tam_to_water.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,

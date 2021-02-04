@@ -438,7 +438,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\tam.png",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\piece_img_tam.png",
         "X": {
           "From": 0.0,
           "To": 0.0,
