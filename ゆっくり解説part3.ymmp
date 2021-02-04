@@ -929,7 +929,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "D:\\tam_movement.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\tam_movement.mp4",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -1515,7 +1515,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "D:\\kut_tam.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\kut_tam.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,
@@ -1572,7 +1572,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "D:\\kut_tam.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\kut_tam.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,
@@ -1629,7 +1629,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "D:\\kut_tam.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\kut_tam.mp4",
         "Volume": {
           "From": 0.0,
           "To": 0.0,
