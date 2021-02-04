@@ -1313,7 +1313,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.VideoItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Videos\\Captures\\Cerke Online — Mozilla Firefox 2021-02-04 15-06-28.mp4",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\barrier_explanation.mp4",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
