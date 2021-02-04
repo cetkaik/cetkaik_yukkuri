@@ -1070,7 +1070,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\board.jpg",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\photo_board01.jpg",
         "X": {
           "From": 0.0,
           "To": 0.0,
@@ -1275,7 +1275,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "C:\\Users\\admin\\Downloads\\IMG_20210121_202201.jpg",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\photo_sticks01.jpg",
         "X": {
           "From": 0.0,
           "To": 0.0,
