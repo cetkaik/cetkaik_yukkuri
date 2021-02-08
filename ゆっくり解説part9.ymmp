@@ -1635,14 +1635,125 @@
         "Length": 26,
         "IsLocked": false,
         "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.TextItem, YukkuriMovieMaker",
+        "Text": "Part 1  00:24",
+        "Font": "UD デジタル 教科書体 N-B",
+        "FontSize": {
+          "From": 50.0,
+          "To": 1.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "LineHeight": 175.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "LeftTop",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Normal",
+        "StyleColor": "#FF000000",
+        "Bold": false,
+        "Italic": false,
+        "X": {
+          "From": 499.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -486.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 94,
+        "Layer": 2,
+        "Length": 173,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\part01_00_24.png",
+        "X": {
+          "From": -1.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": -112.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 166.5,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 94,
+        "Layer": 0,
+        "Length": 173,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:04.2333313",
+        "IsLocked": false,
+        "IsHidden": false
       }
     ],
     "LayerVisibilities": {
       "HiddenLayers": []
     },
-    "CurrentFrame": 112,
+    "CurrentFrame": 95,
     "Length": 900,
-    "MaxLayer": 1
+    "MaxLayer": 2
   },
   "Characters": [
     {
