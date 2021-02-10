@@ -1799,7 +1799,7 @@
           "AnimationType": "なし",
           "Span": 0.0
         },
-        "PlaybackRate": 100.0,
+        "PlaybackRate": 5.0,
         "ContentOffset": "00:00:00",
         "IsLooped": false,
         "EchoIsEnabled": false,
@@ -1863,7 +1863,7 @@
           "AnimationType": "なし",
           "Span": 0.0
         },
-        "PlaybackRate": 100.0,
+        "PlaybackRate": 5.0,
         "ContentOffset": "00:00:00",
         "IsLooped": false,
         "EchoIsEnabled": false,
@@ -1927,7 +1927,7 @@
           "AnimationType": "なし",
           "Span": 0.0
         },
-        "PlaybackRate": 100.0,
+        "PlaybackRate": 5.0,
         "ContentOffset": "00:00:00",
         "IsLooped": false,
         "EchoIsEnabled": false,
@@ -1980,7 +1980,7 @@
     "LayerVisibilities": {
       "HiddenLayers": []
     },
-    "CurrentFrame": 237,
+    "CurrentFrame": 252,
     "Length": 900,
     "MaxLayer": 7
   },
