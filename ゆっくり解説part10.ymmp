@@ -1563,7 +1563,7 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 5,
-        "Length": 72,
+        "Length": 128,
         "PlaybackRate": 100.0,
         "ContentOffset": "00:00:00",
         "IsLocked": false,
@@ -1626,7 +1626,7 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 7,
-        "Length": 72,
+        "Length": 128,
         "PlaybackRate": 100.0,
         "ContentOffset": "00:00:00",
         "IsLocked": false,
@@ -1689,9 +1689,98 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 6,
-        "Length": 72,
+        "Length": 128,
         "PlaybackRate": 100.0,
         "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
+        "CharacterName": "ゆっくり魔理沙",
+        "Serif": "手動で変えてたもんな",
+        "Hatsuon": "しゅどう+で/かえ+て+た+もん+な",
+        "VoiceLength": "00:00:01.5670000",
+        "Volume": {
+          "From": 50.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Pan": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "PlaybackRate": 100.0,
+        "VoiceParameter": {
+          "$type": "YukkuriMovieMaker.Voice.VoiceParameter, YukkuriMovieMaker",
+          "Speed": 100
+        },
+        "ContentOffset": "00:00:00",
+        "VoiceFadeIn": 0.0,
+        "VoiceFadeOut": 0.0,
+        "EchoIsEnabled": false,
+        "EchoInterval": 0.1,
+        "EchoAttenuation": 40.0,
+        "JimakuVisibility": "UseCharacterSetting",
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "X": {
+          "From": 442.53,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "JimakuFadeIn": 0.0,
+        "JimakuFadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "Font": "メイリオ",
+        "FontSize": {
+          "From": 60.1,
+          "To": 1.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "LineHeight": 100.0,
+        "LetterSpacing": 0.0,
+        "BasePoint": "CenterBottom",
+        "FontColor": "#FFFFFFFF",
+        "Style": "Border",
+        "StyleColor": "#FFFFFF00",
+        "Bold": false,
+        "Italic": false,
+        "JimakuVideoEffects": [],
+        "TachieFaceParameter": null,
+        "Group": 0,
+        "Frame": 181,
+        "Layer": 1,
+        "Length": 56,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -1755,7 +1844,7 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 2,
-        "Length": 72,
+        "Length": 128,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -1819,7 +1908,7 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 3,
-        "Length": 72,
+        "Length": 128,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -1883,7 +1972,7 @@
         "Group": 0,
         "Frame": 109,
         "Layer": 4,
-        "Length": 72,
+        "Length": 128,
         "IsLocked": false,
         "IsHidden": false
       }
@@ -1891,7 +1980,7 @@
     "LayerVisibilities": {
       "HiddenLayers": []
     },
-    "CurrentFrame": 176,
+    "CurrentFrame": 237,
     "Length": 900,
     "MaxLayer": 7
   },
