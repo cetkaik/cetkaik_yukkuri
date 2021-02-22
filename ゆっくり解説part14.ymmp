@@ -533,8 +533,8 @@
         "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
         "CharacterName": "ゆっくり霊夢",
         "Serif": "しません。同じ役が2つ成立することはありません。",
-        "Hatsuon": "しません。おなじ/やくが<NUMK VAL=2 COUNTER=つ>/せいり_ツすることわ/ありません。",
-        "VoiceLength": "00:00:03.9070000",
+        "Hatsuon": "しません、おなじ/やくが/ふたつ/せいり_ツすることわ/ありません。",
+        "VoiceLength": "00:00:03.7570000",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -614,7 +614,7 @@
         "Group": 0,
         "Frame": 301,
         "Layer": 1,
-        "Length": 126,
+        "Length": 122,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -701,9 +701,9 @@
         "JimakuVideoEffects": [],
         "TachieFaceParameter": null,
         "Group": 0,
-        "Frame": 427,
+        "Frame": 423,
         "Layer": 1,
-        "Length": 46,
+        "Length": 50,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -821,9 +821,9 @@
       {
         "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
         "CharacterName": "ゆっくり霊夢",
-        "Serif": "ただし、同色というのは単体の役ではないので、",
-        "Hatsuon": "ただし、どうしょ_クというのわ/たんたいの/やくでわな_クて、",
-        "VoiceLength": "00:00:03.4645000",
+        "Serif": "ただし、同色というのは単体の役でないので、",
+        "Hatsuon": "ただし、どうしょ_クというのわ/たんたいの/やくでないので、",
+        "VoiceLength": "00:00:03.4470000",
         "Volume": {
           "From": 50.0,
           "To": 0.0,
@@ -903,7 +903,7 @@
         "Group": 0,
         "Frame": 473,
         "Layer": 1,
-        "Length": 113,
+        "Length": 112,
         "IsLocked": false,
         "IsHidden": false
       },
@@ -1274,7 +1274,7 @@
     "LayerVisibilities": {
       "HiddenLayers": []
     },
-    "CurrentFrame": 885,
+    "CurrentFrame": 309,
     "Length": 900,
     "MaxLayer": 2
   },
