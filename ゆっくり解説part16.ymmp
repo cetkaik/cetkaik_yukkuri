@@ -792,8 +792,8 @@
       {
         "$type": "YukkuriMovieMaker.Project.Items.VoiceItem, YukkuriMovieMaker",
         "CharacterName": "ゆっくり霊夢",
-        "Serif": "季節が終わると1倍に戻ります",
-        "Hatsuon": "_キせつが/おわると<NUMK VAL=1 COUNTER=ばい>に/もどりま_ス",
+        "Serif": "季節が終わると1倍に戻ります。",
+        "Hatsuon": "_キせつが/おわると<NUMK VAL=1 COUNTER=ばい>に/もどりま_ス。",
         "VoiceLength": "00:00:02.3145000",
         "Volume": {
           "From": 50.0,
@@ -877,12 +877,108 @@
         "Length": 78,
         "IsLocked": false,
         "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\blender.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 20,
+        "Layer": 0,
+        "Length": 471,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
+      },
+      {
+        "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
+        "FilePath": "C:\\Users\\admin\\Documents\\机戦ゆっくり\\media\\blender_kauk.png",
+        "X": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Y": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Opacity": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Zoom": {
+          "From": 100.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "Rotation": {
+          "From": 0.0,
+          "To": 0.0,
+          "AnimationType": "なし",
+          "Span": 0.0
+        },
+        "FadeIn": 0.0,
+        "FadeOut": 0.0,
+        "Blend": "Normal",
+        "IsInverted": false,
+        "IsAlwaysOnTop": false,
+        "VideoEffects": [],
+        "Group": 0,
+        "Frame": 491,
+        "Layer": 0,
+        "Length": 394,
+        "PlaybackRate": 100.0,
+        "ContentOffset": "00:00:00",
+        "IsLocked": false,
+        "IsHidden": false
       }
     ],
     "LayerVisibilities": {
       "HiddenLayers": []
     },
-    "CurrentFrame": 878,
+    "CurrentFrame": 818,
     "Length": 900,
     "MaxLayer": 1
   },
